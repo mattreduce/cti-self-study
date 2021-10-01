@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Part 1/Intelligence/_Read and watch.md",
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 1/Intelligence/_Read and watch.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Part 1/Intelligence/_Read and watch.md"
+                "file": "README.md"
               }
             }
           }
@@ -117,9 +117,9 @@
   },
   "active": "789d88051dda583a",
   "lastOpenFiles": [
-    "Part 1/Intelligence/_Read and watch.md",
-    "Part 1/Intelligence/_Things to do.md",
+    "README.md",
     "Part 1/Part 1.md",
-    "README.md"
+    "Part 1/Intelligence/_Read and watch.md",
+    "Part 1/Intelligence/_Things to do.md"
   ]
 }
