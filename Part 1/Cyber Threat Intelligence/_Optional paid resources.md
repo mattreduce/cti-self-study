@@ -1,0 +1,4 @@
+# Cyber Threat Intelligence: Optional paid resource
+
+- [ ] If you’re looking for a good book on CTI, I highly recommend Rebekah Brown and Scott Roberts’ [Intelligence-Driven Incident Response](https://www.oreilly.com/library/view/intelligence-driven-incident-response/9781491935187/).
+- [ ] If you’re looking for paid CTI courses, I recommend [SANS FOR578](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/) (full disclosure: I teach it!), Joe Slowik’s [Operational Threat Intelligence course](https://paralus.co/training/), or any of [Sergio Caltagirone’s courses](https://school.threatintel.academy/). [Chris Sanders’ Investigation Theory course](https://chrissanders.org/training/investigationtheory/) is more forensics-based, but the principles he teaches are key to those you should develop as a CTI analyst.

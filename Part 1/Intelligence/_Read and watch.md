@@ -1,0 +1,5 @@
+# Intelligence: Read and watch
+
+- [ ] Read about the 9 principles of [Sherman Kent’s analytic doctrine](https://web.archive.org/web/20201102212401/https://www.cia.gov/library/kent-center-occasional-papers/pdf/OPNo5.pdf), starting with “1. Focus on Policymaker Concerns” on page 9 (you can skim the rest). Sherman Kent is a figure you should know about, and these principles of his analytic doctrine are core to what I think an intelligence analyst should be.
+- [ ] Read Richards Heuer’s [Psychology of Intelligence Analysis](https://web.archive.org/web/20201206081245/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf). This is a great intro to several important principles about how we think as intel analysts — including cognitive biases and structured analytic techniques.
+- [ ] Read about the [Intelligence Cycle](https://www.intelligencecareers.gov/icintelligence.html).

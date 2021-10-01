@@ -1,0 +1,7 @@
+# Cyber Threat Intelligence: Read and watch
+
+- [ ] Watch [this webinar](https://www.youtube.com/watch?v=J7e74QLVxCk) I did.
+- [ ] Read [this paper](https://www.dragos.com/wp-content/uploads/Industrial-Control-Threat-Intelligence-Whitepaper.pdf) from Sergio Caltagirone. Don’t get hung up on the ICS-specific terms (you can skim those parts if you want); think of them as examples of CTI…the point of you reading this isn’t to become an ICS expert, it’s to learn some fundamental principles of CTI.
+- [ ] Watch [Week 6](https://chrissanders.org/training/cuckoosegg/) of Chris Sanders’ free Cuckoo’s Egg course. (At some point, I recommend working through the whole thing because it’s an amazing free resource from Chris, but for CTI, week 6 is key.) This course covers a lot of the topics below too.
+- [ ] If you’re setting up a team/CTI program, watch this [webinar](https://www.sans.org/webcasts/build-robust-cyber-threat-intelligence-program-112505/) I did with Jackie Abrams of DomainTools. You need a (free) SANS account to log in, then register so you can view the recording. I also recommend reading [this INSA paper](https://www.insaonline.org/wp-content/uploads/2017/04/INSA_Cyber_Intel_PrepTalent.pdf), especially if you’re setting up a team.
+- [ ] Read a key report in CTI history: the [Mandiant APT1 report](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf) from 2013.
