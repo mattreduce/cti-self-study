@@ -18,6 +18,15 @@ Topics:
 * The CTI Community
 * Frameworks and Models
 
+## Part 2
+
+Topics:
+
+* OSINT and Open Sources
+* Pivoting
+* Clustering, Naming, and Creating Groups
+* Attribution
+
 ## Using this project
 
 This repo is a **GitHub template**, meant to provide a starting point for your
