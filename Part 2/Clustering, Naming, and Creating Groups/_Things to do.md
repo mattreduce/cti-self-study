@@ -1,0 +1,9 @@
+# Clustering, Creating, and Naming Groups: Things to do
+
+- [ ] Choose a group from the [MITRE ATT&CK groups page](https://attack.mitre.org/groups/) that has multiple associated names. Read the reference(s) for that associated name overlapping with the “main” group page name. Note what details, if any, explain the reason for the overlap.
+- [ ] Using the methodology of your choice (a spreadsheet might be a good option), organize data points from the following information on various IcedID campaigns: [3 August 2022](https://github.com/pan-unit42/tweets/blob/master/2022-08-03-IOCs-for-IcedID-and-Cobalt-Strike.txt), [8 August 2022](https://github.com/pan-unit42/tweets/blob/master/2022-08-08-IOCs-for-IcedID-and-Cobalt-Strike.txt), [10 August 2022](https://github.com/pan-unit42/tweets/blob/master/2022-08-10-IOCs-for-IcedID-and-Cobalt-Strike.txt), and [18 August 2022](https://twitter.com/pr0xylife/status/1560289035775627265).
+    - Considering using the Diamond Model and Rule of 2 to do this.
+    - [ ] Based on the data you have, decide if you think you should create a group (since IcedID is malware, you could create a group for the delivery of it)
+    - [ ] If you create a group, create a definition for that group — in other words, if you saw a new IcedID intrusion, what criteria would it need to meet in order to be part of the new group you created?
+    - [ ] Think about what challenges you had in doing this and what criteria is “close enough” to create a group or not.
+- [ ] Search Twitter to find a recent debate about group names in which analysts disagree (this is a debate that comes up a lot in the CTI community). Think about each party’s perspective and note reasons why they likely hold that view, even if you don’t agree. (Hint: search Twitter for APT31, APT10, or TA410.)

@@ -1,0 +1,7 @@
+# Pivoting: Read and watch
+
+- [ ] Watch a short clip of a [CTI presentation](https://youtu.be/J7e74QLVxCk?t=1117) Katie Nickels did (18:37–21:02).
+- [ ] Read Joe Slowik’s [blog post](https://www.domaintools.com/resources/blog/analyzing-network-infrastructure-as-composite-objects) on “Analyzing Network Infrastructure as Composite Objects”, which presents three pivotable artifact types: domain names, IP addresses, and TLS certificates.
+- [ ] Read Kelsey LaBelle’s blog post series on [DNS](https://www.domaintools.com/resources/blog/valuable-datasets-to-analyze-network-infrastructure-part-1), [WhoIs](https://www.domaintools.com/resources/blog/valuable-datasets-to-analyze-network-infrastructure-part-2), and [passive DNS](https://www.domaintools.com/resources/blog/valuable-datasets-to-analyze-network-infrastructure-part-3), which are all commonly-used sources for pivoting.
+- [ ] Watch Mark Parsons’ [presentation](https://www.youtube.com/watch?v=SieSrv8RGic) on TLS certificates and/or read his [blog](https://medium.com/@mark.parsons/hunting-a-tls-certificate-series-post-1-6ad7adfebe44).
+- [ ] Read Joe Slowik’s [paper](https://pylos.co/wp-content/uploads/2021/02/pivoting.pdf) on “Formulating a Robust Pivoting Methodology” and/or watch his [presentation](https://www.youtube.com/watch?v=IhUJH_mgVVk) on “Pivoting from Art to Science.”
